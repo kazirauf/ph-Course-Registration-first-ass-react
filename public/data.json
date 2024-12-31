@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XlDwkEzLtbUCWRy6KAnf3QZbM0L6KKw8wXQ-RqlxTXdsYX1E",
+      "title": "Introduction to C Programming",
+      "details": "this course this very good C Programming course. we always teach our student very well. ",
+      "price": 15000,
+      "credit": 1
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUcHuuOgxd1YyDRlynWsxeMo-RVkDhieeUknOPFo4ddijE_o8E",
+      "title": "Introduction to Algorithms",
+      "details": "this course this very good Introduction to Algorithms. we always teach our student very well.",
+      "price": 25000,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5-KxkZyhHQeIwDjt2nJ_9BXTZjXHaLzjLUPN1TF5i4DdB2aw",
+      "title": "Introduction to C++ for DSA",
+      "details": "Introduce to C ++ for DSA this course is a great course in our courses and will provide you with the opportunity",
+      "price": 10000,
+      "credit": 10
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-vXx6UBRfigK2L07PoSHZVURpwe8SwYfH0Zg3rZf_-drF2khh",
+      "title": "Basic Data Structures",
+      "details": "Welcome to Data Structures , the basic data structure structure framework for creating and managing data structures for your application and for interacting with your application.",
+      "price":  35000,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv3ihPZn4Nn22yEgLv8MkP_rLePX18fgoOcEtClStMSvj6a0gm",
+      "title": "Introduction to OOP Python",
+      "details": "welcome to opp python for the first time and to learn how to use OOP Python   in your application and to learn how to use OOP Python in your application",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIAi145nGAdbUD68GHXW_O5hCZu76kGo74Og7is4TMszDs9H5",
+      "title": "Software Engineering",
+      "details": "In this course we teach you everything about software engineering and software development and continue to develop software development tools that integrate with your application.",
+      "price": 23000,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamMth4q2uxqi9_4rVTwsw4wqzLqk8VkQv2dTAXJzQgu2ZjHxZ",
+      "title": "AWS, Cloud Computing",
+      "details": "Welcome to aws cloud computing project in Amazon Cloud Computing (AWS Cloud Computing Project. All rights reserved and free software distributed under the Apache License, Version 2.0.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZOg1VxtlbN69911UXsRlb0Nx0qeR7nFheAoZYw-Ir_uEO9Q0",
+      "title": "Database (MySQL)",
+      "details": "In this course we teach you database management and programming. You will learn how to create and manage your database and interact with your database in your application.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeGfScTpX_Ai3jM9FVvRY0eFpkCNA6iEmFcXmOac2hJkTxnWil",
+      "title": "Problem-Solving Part",
+      "details": "In this course you learn how to solve a problem. And when you solve it will be solved with the following instructions.",
+      "price": 23000,
+      "credit": 2
+    }
+  ]
+  
